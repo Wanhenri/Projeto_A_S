@@ -1,0 +1,1 @@
+cdo -f nc import_binary JAN2013.ctl JAN2013.nc
